@@ -1,13 +1,19 @@
-<!--h1> Olá, me chamo Romollo Rodrigues!</h1-->
-![Romollo Rodrigues](https://user-images.githubusercontent.com/10434445/154851117-c1dfa5fd-f4a5-4e5c-a677-be1366c5941e.png)
+![Cartão Visita](https://user-images.githubusercontent.com/10434445/154858053-78927e22-1e26-4e87-863a-09c872a16bc5.PNG)
 
-<h1>Bem vindo ao meu perfil do GitHub 👋</h1>
+# Bem vindo ao meu perfil do GitHub 👋
+
+* 💻Trabalho atualmente na [Fortes Tecnologia](http://fortestecnologia.com.br/)
+* 💻 Sou desenvolvedor de software desde 2009
+* 🎓 Estudo Análise e Desenvolvimento de Sistemas na [UNI7](https://www.uni7.edu.br/)
+
+# Ferramentas e Tecnologias
+
+![Capturar](https://user-images.githubusercontent.com/10434445/154856239-95a3257e-b6e2-4a48-b0e9-d1e889928a17.PNG)
 
 
 
-<h1>Ferramentas e Tecnologias</h1>
 
-![image](https://user-images.githubusercontent.com/10434445/154851269-b056e2cd-f68e-4053-96db-b4483b6f21c2.png)![image](https://user-images.githubusercontent.com/10434445/154851344-cc2a0388-b39a-4770-b375-6911ada007b4.png)![image](https://user-images.githubusercontent.com/10434445/154851396-16558b25-848b-440e-bbe9-5488be16ed04.png)![image](https://user-images.githubusercontent.com/10434445/154851500-5e7bb312-a2ce-4bf7-8870-657c72a0a5ec.png)![image](https://user-images.githubusercontent.com/10434445/154851557-ccfcfd18-ef26-4b56-904b-0f13ff84b228.png)![image](https://user-images.githubusercontent.com/10434445/154851634-cc0fa273-7557-4de0-800e-8f16b2939bd9.png)
+
 
 
 
