@@ -4,7 +4,7 @@
 
 # Bem vindo ao meu perfil do GitHub 👋
 
-* 💻Trabalho atualmente na [Fortes Tecnologia](http://fortestecnologia.com.br/)
+* 💻Trabalho atualmente na [Fortes Tecnologia]([http://fortestecnologia.com.br/](https://www.fortestecnologia.com.br/?gclid=Cj0KCQjw6KunBhDxARIsAKFUGs8VMGaiHAaU-FQItiujgQSQhXK-V_q7SE0oa7CbWY-3oxKP4FWMR9oaArv9EALw_wcB))
 * 💻 Sou desenvolvedor de software desde 2009
 * 🎓 Estudo Análise e Desenvolvimento de Sistemas na [UNI7](https://www.uni7.edu.br/)
 
