@@ -10,7 +10,7 @@
 
 # Sobre
 
-Há 14 anos na área de tecnologia e desenvolvimento, atuando como desenvolvedor (Delphi, SQL), trabalhei em um sistema de Gestão Financeira durante 5 anos com foco em contas a pagar, contas a receber, faturamento, comissão e integração com nota fiscal eletrônica.
+Desde 2009 na área de tecnologia e desenvolvimento, atuando como desenvolvedor (Delphi, SQL), trabalhei em um sistema de Gestão Financeira durante 5 anos com foco em contas a pagar, contas a receber, faturamento, comissão e integração com nota fiscal eletrônica.
 
 Durante esse período, tive a oportunidade de atuar como Gerente de Contas dos sistemas de Controle de Frota e Gestão de Transportes, diretamente com estudos de casos e análise de necessidade e prioridades dos clientes. 
 
